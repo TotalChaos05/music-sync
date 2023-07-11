@@ -1,4 +1,3 @@
-#![feature(path_file_prefix)]
 use walkdir::{DirEntry,WalkDir};
 use std::ffi::OsString;
 use std::path::Path;
